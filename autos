@@ -1,2 +1,2 @@
-git commit
-ls
+git .r
+git .b create -code test
