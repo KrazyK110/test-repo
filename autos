@@ -1,2 +1,4 @@
+var startautos -if "git startautos" --run test-repo/autos
+ls
 git add .
 ls
